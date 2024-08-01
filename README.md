@@ -1,2 +1,0 @@
-# repoPrueba
-Repositorio de prueba
